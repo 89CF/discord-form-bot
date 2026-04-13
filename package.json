@@ -13,8 +13,16 @@
     "bot",
     "forms"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "89CF",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/89CF/discord-form-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/89CF/discord-form-bot/issues"
+  },
+  "homepage": "https://github.com/89CF/discord-form-bot#readme",
   "dependencies": {
     "better-sqlite3": "^12.9.0",
     "discord.js": "^14.14.1",
