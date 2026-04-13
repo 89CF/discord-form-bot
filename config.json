@@ -1,0 +1,8 @@
+{
+  "maxQuestionsPerForm": 5,
+  "maxTitleLength": 100,
+  "maxDescriptionLength": 500,
+  "maxQuestionLength": 45,
+  "maxButtonLabelLength": 80,
+  "submissionsPerPage": 5
+}
